@@ -24,7 +24,7 @@ composer.phar
 /html/plugin/*
 !/html/plugin/.gitkeep
 /html/install/temp/*
-/html/upload/save_image/*
+
 !/html/upload/save_image/.gitkeep
 /html/upload/temp_image/*
 !/html/upload/temp_image/.gitkeep
